@@ -19,12 +19,7 @@ I call my project 'Brothers on the Bay' and wanted to convey the excitement I ha
 **Project Description:**
 This is my Facebook Frame. It's the TechStart Logo. 
 
-**option 1**
-![filter](techstartFilter.jpg?raw=true "Camera Effects")
-
-**option 2**
 ![filter](/Camera_Effects_Image.png)
-
 
 
 ***
