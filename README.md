@@ -24,19 +24,22 @@ This is my Facebook Frame. It's the TechStart Logo.
 ### Chatbots
 
 **Project Description:**
+My chatbot answers questions about TechStart. 
 
 ### ReactVR
 
 **Project Description:**
 This is the mini Virtual Reality game that I coded using ReactVR. 
 
-![filter](/ReactVR___Image1_fbtechstart.png)
+![filter](/ReactVR_Image1_fbtechstart.png)
 
-![filter](/ReactVR___Image2_fbtechstart.png)
+![filter](/ReactVR_Image2_fbtechstart.png)
 
-![filter](/ReactVR___Image3_fbtechstart.png)
+![filter](/ReactVR_Image3_fbtechstart.png)
 
-![filter](/ReactVR___Image4_fbtechstart.png)
+![filter](/ReactVR_Image4_fbtechstart.png)
+
+![filter](/ReactVR_Image5_fbtechstart.png)
 
 
 ***
