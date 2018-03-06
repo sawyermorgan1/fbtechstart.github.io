@@ -26,6 +26,8 @@ This is my Facebook Frame. It's the TechStart Logo.
 **Project Description:**
 My chatbot answers questions about TechStart. 
 
+![filter](/Chatbots_fbtechstart.png)
+
 ### ReactVR
 
 **Project Description:**
