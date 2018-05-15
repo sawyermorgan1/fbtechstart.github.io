@@ -1,9 +1,12 @@
-## **360**
+#techstartfb.github.io
+Sawyer & Kayla 
+
+### 360
 
 ### **Project Description:**
-I call my project 'Brothers on the Bay' and wanted to convey the excitement I have when I sail with my brother. When we're out on the water, we're on a great adventure. I hope that same sense of adventure grips you as you view my 360 image.
+We wanted to take a 360 photo outside the school to show the front of the high school and the field to show how big it is. I hope our viewers see our 360 photo of the school to see how big it is. 
+script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/gitbritt/360-world-copy" ></script>
 
-<script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/gitbritt/360-world-copy" ></script>
 
 ### Storyscape
 
